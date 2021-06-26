@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/code-editor-react/static/css/main.e03441e4.chunk.css",
+    "main.js": "/code-editor-react/static/js/main.23ffd5ad.chunk.js",
+    "main.js.map": "/code-editor-react/static/js/main.23ffd5ad.chunk.js.map",
+    "runtime-main.js": "/code-editor-react/static/js/runtime-main.d53d4642.js",
+    "runtime-main.js.map": "/code-editor-react/static/js/runtime-main.d53d4642.js.map",
+    "static/js/2.e332eabe.chunk.js": "/code-editor-react/static/js/2.e332eabe.chunk.js",
+    "static/js/2.e332eabe.chunk.js.map": "/code-editor-react/static/js/2.e332eabe.chunk.js.map",
+    "index.html": "/code-editor-react/index.html",
+    "static/css/main.e03441e4.chunk.css.map": "/code-editor-react/static/css/main.e03441e4.chunk.css.map",
+    "static/js/2.e332eabe.chunk.js.LICENSE.txt": "/code-editor-react/static/js/2.e332eabe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d53d4642.js",
+    "static/js/2.e332eabe.chunk.js",
+    "static/css/main.e03441e4.chunk.css",
+    "static/js/main.23ffd5ad.chunk.js"
+  ]
+}
